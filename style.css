@@ -1,0 +1,27 @@
+body{
+    background-color: cornsilk;
+    font-family: 'Poppins', sans-serif;
+   
+}
+ 
+h1{
+    font-size: 50px;
+}
+.name{
+    color: chocolate;
+    font-size: 60px;
+    
+}
+h3{
+    color: darkorange;
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+   
+}
+ .half-width img{
+    width: 100%;
+ }
